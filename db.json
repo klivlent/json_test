@@ -8,5 +8,17 @@
         "id": 2,
         "title": "obj2"
       }
+    ],
+    "service_account": [
+        {
+            "chainId": 1,
+            "service": "zoom",
+            "apiKey": "123",
+            "apiSecret": "321",
+            "regRequired": true,
+            "emailNotification": true,
+            "defaultRecordingType": "none",
+            "defaultUser": 1
+        }
     ]
 }
