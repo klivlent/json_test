@@ -19,6 +19,16 @@
             "emailNotification": true,
             "defaultRecordingType": "none",
             "defaultUser": 1
+        },
+        {
+            "chainId": 2,
+            "service": "zoom",
+            "apiKey": "456",
+            "apiSecret": "654",
+            "regRequired": false,
+            "emailNotification": false,
+            "defaultRecordingType": "none",
+            "defaultUser": 2
         }
     ]
 }
